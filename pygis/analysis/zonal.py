@@ -1,3 +1,11 @@
+"""
+@author   Chris R. Vernon
+@email:   chris.vernon@pnnl.gov
+@Project: pygis
+License:  BSD 2-Clause, see LICENSE and DISCLAIMER files
+Copyright (c) 2017, Battelle Memorial Institute
+"""
+
 import fiona
 import rasterstats
 
