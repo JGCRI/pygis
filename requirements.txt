@@ -1,0 +1,2 @@
+fiona>=1.7
+rasterstats>=0.13.0
