@@ -1,2 +1,7 @@
 fiona>=1.7
 rasterstats>=0.13.0
+numpy>=1.14
+pandas>=0.23
+matplotlib>=2.2
+seaborn>=0.9
+gdal>=2.2
